@@ -11,9 +11,9 @@
 - Git | GitHub
 
 ### 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nathangc77&show_icons=true&theme=dracula&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathangc77&layout=compact&theme=dracula&hide_border=true)
 
 ### 🌍 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-dev/)

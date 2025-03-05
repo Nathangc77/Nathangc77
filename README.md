@@ -1,6 +1,7 @@
 # Olá, eu sou Nathan 👋
 
-**'Desenvolvedor BackEnd'**
+**`Desenvolvedor BackEnd`**
+
 Olá! Meu nome é Nathan Santos Moreira, tenho 26 anos e sou um desenvolvedor Java apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e focado no desenvolvimento de APIs REST com Spring Boot.
 
 ### 🛠️ Tecnologias e Ferramentas

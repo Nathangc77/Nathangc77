@@ -1,12 +1,11 @@
 # Olá, eu sou Nathan 👋
 
 ### 🚀 Sobre mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>
-💻 Desenvolvedor Java focado em Spring Boot, JPA e segurança com JWT e OAuth2<br>
-📚 Buscando minha primeira oportunidade como desenvolvedor Java júnior<br>
+Olá! Meu nome é Nathan Santos Moreira, tenho 26 anos e sou um desenvolvedor Java apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e focado no desenvolvimento de APIs REST com Spring Boot.
 
 ### 🛠️ Tecnologias e Ferramentas
 - Java | Spring Boot | Spring Security | JPA/Hibernate
+- JUnit5 | Mockito | Jacoco | TDD
 - PostgreSQL | MySQL
 - Git | GitHub
 

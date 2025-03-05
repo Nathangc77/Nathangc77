@@ -16,5 +16,4 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula&hide_border=true)
 
 ### 🌍 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-dev/)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=website&logoColor=white)](https://seuportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-dev/)

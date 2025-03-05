@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Nathan 👋
 
-<!--
-**Nathangc77/Nathangc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>
+💻 Desenvolvedor Java focado em Spring Boot, JPA e segurança com JWT e OAuth2<br>
+📚 Buscando minha primeira oportunidade como desenvolvedor Java júnior<br>
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- Java | Spring Boot | Spring Security | JPA/Hibernate
+- PostgreSQL | MySQL
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula&hide_border=true)
+
+### 🌍 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-dev/)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=website&logoColor=white)](https://seuportfolio.com)  

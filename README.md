@@ -11,9 +11,9 @@ Olá! Meu nome é Nathan Santos Moreira, tenho 26 anos e sou um desenvolvedor Ja
 - Git | GitHub
 
 ### 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nathangc77&show_icons=true&theme=dracula&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nathangc77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathangc77&layout=compact&theme=dracula&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathangc77&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🌍 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-dev/)
